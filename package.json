@@ -1,0 +1,29 @@
+{
+  "name": "express-request-response-logger",
+  "version": "1.0.0",
+  "description": "Logs an incoming request. Upon response it logs response status and duration.",
+  "main": "index.js",
+  "dependencies": {
+    "random-strings": "^0.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/peerby/express-request-response-logger.git"
+  },
+  "keywords": [
+    "express",
+    "logging",
+    "request",
+    "response"
+  ],
+  "author": "godspeedelbow",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/peerby/express-request-response-logger/issues"
+  },
+  "homepage": "https://github.com/peerby/express-request-response-logger"
+}
